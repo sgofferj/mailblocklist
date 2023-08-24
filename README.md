@@ -1,6 +1,6 @@
 # mailblocklist
 
-![Addresses: 354 ](https://img.shields.io/badge/Addresses-354-green)
+![Addresses: 362 ](https://img.shields.io/badge/Addresses-362-green)
 
 I have been running mailservers at home and elsewhere since 1996. Over the years, the attempts to use them without authorization have increased massively. Common mail blocklists focus primarily on mta-level client filtering. This list is intented to be used in a firewall to block malicious actors already before they create any load on the mta
 
