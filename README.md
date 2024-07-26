@@ -1,10 +1,11 @@
 # mailblocklist
 
-![Addresses: 95 ](https://img.shields.io/badge/Addresses-95-green)
+![Addresses: 85 ](https://img.shields.io/badge/Addresses-85-green)
 
 I have been running mailservers at home and elsewhere since 1996. Over the years, the attempts to use them without authorization have increased massively. Common mail blocklists focus primarily on mta-level client filtering. This list is intented to be used in a firewall to block malicious actors already before they create any load on the mta
 
 This list is updated automatically out of my firewall every 6 hours. It contains all IP addresses which tried to brute-force user accounts on my mailservers or otherwise try to abuse them during the last 30 days.
+Since 2024-07-26, the list also contains all source IP addresses of the infamous spameri@tiscali.it probe bot from the last 30 days.
 
 
 ## Terms and conditions
